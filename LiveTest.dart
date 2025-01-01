@@ -1,4 +1,4 @@
 //test github 2
 void main(){
-  print ("Live Test");
+  print ("Live Test: ");
 }
